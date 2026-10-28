@@ -1,0 +1,29 @@
+=== Bottom Quartile Flagged Districts ===
+district_name  state         composite_score  electricity_pct  toilets_pct  water_pct  internet_pct  boundary_wall_pct  library_pct  computer_lab_pct  handwashing_pct  priority_flag            
+-------------  ------------  ---------------  ---------------  -----------  ---------  ------------  -----------------  -----------  ----------------  ---------------  -------------------------
+Gaya           Bihar         32.8             34               30           49         33            31                 25           26                34               Bottom Quartile - Flagged
+Madhepura      Bihar         32.9             34               41           48         31            28                 24           27                30               Bottom Quartile - Flagged
+Gadchiroli     Maharashtra   36.5             34               45           49         33            36                 30           20                45               Bottom Quartile - Flagged
+Chamoli        Uttarakhand   37.0             35               42           45         24            36                 36           30                48               Bottom Quartile - Flagged
+Khagaria       Bihar         37.6             47               34           46         32            47                 25           27                43               Bottom Quartile - Flagged
+Bellary        Karnataka     37.9             34               33           48         37            42                 38           22                49               Bottom Quartile - Flagged
+Malkangiri     Odisha        38.4             40               49           41         35            34                 39           31                38               Bottom Quartile - Flagged
+Rajnandgaon    Chhattisgarh  39.0             39               40           51         38            49                 28           22                45               Bottom Quartile - Flagged
+Bijapur        Chhattisgarh  39.2             40               49           43         27            38                 37           34                46               Bottom Quartile - Flagged
+Latehar        Jharkhand     40.9             39               52           42         39            39                 35           29                52               Bottom Quartile - Flagged
+Hailakandi     Assam         41.4             39               44           57         27            44                 33           36                51               Bottom Quartile - Flagged
+
+=== Weakest Indicator per Flagged District ===
+district_name  state         composite_score  weakest_indicator  weakest_indicator_pct
+-------------  ------------  ---------------  -----------------  ---------------------
+Gaya           Bihar         32.8             Library            25                   
+Madhepura      Bihar         32.9             Library            24                   
+Gadchiroli     Maharashtra   36.5             Computer Lab       20                   
+Chamoli        Uttarakhand   37.0             Internet           24                   
+Khagaria       Bihar         37.6             Library            25                   
+Bellary        Karnataka     37.9             Computer Lab       22                   
+Malkangiri     Odisha        38.4             Computer Lab       31                   
+Rajnandgaon    Chhattisgarh  39.0             Computer Lab       22                   
+Bijapur        Chhattisgarh  39.2             Internet           27                   
+Latehar        Jharkhand     40.9             Computer Lab       29                   
+Hailakandi     Assam         41.4             Internet           27                   
